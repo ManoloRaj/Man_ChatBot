@@ -1,0 +1,20 @@
+{"intents": [
+    {
+        "tag" : "Fiarahabana",
+        "patterns" : ["manahoana", "keza", "kez", "akory", "bonjour", "salut", "sali", "bnjr", "miarahaba", "Salama"],
+        "reponses" : ["Salama ", "Inona no azoko hanampiana anao?"]
+    },
+    {
+        "tag" : "Taona",
+        "patterns" : ["Firy taona ianao?", "firy taona iseh", "Firy ny taonanao?", "efa firy taona ianao?"],
+        "reponses" : ["1 taona aho izay no noforonina", "1 taona aho"]
+    },
+    {
+        "tag" : "Anarana",
+        "patterns" : ["Iza ny anaranao", "Iza ianao", "Ianao no iza?"],
+        "reponses" : ["Izaho no robot", "Robot noforonin'i Manolo aho", "Robot", "Chat bot aho"]
+    }
+]
+
+}
+
